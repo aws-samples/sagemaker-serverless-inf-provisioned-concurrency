@@ -30,7 +30,7 @@ for i in range(5):
     end_no_pc = time.time() - start_no_pc
     non_pc_times.append(end_no_pc)
 ```
-
+![PC-SageMaker](on-demand-PC.png)
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
